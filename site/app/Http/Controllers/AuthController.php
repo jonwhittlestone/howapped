@@ -1,8 +1,8 @@
-<?php namespace App\Http\Controllers;
+<?php namespace Howapped\Http\Controllers;
 
-use App\Http\Requests\LoginRequest;
+use Howapped\Http\Requests\LoginRequest;
 use Illuminate\Contracts\Auth\Guard;
-use App\Http\Requests\RegisterRequest;
+use Howapped\Http\Requests\RegisterRequest;
 
 class AuthController extends Controller {
 

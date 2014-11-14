@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace Howapped\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Contracts\Routing\UrlGenerator;
@@ -12,9 +12,9 @@ class RouteServiceProvider extends ServiceProvider {
 	 * @var array
 	 */
 	protected $middleware = [
-		'auth' => 'App\Http\Middleware\Authenticate',
+		'auth' => 'Howapped\Http\Middleware\Authenticate',
 		'auth.basic' => 'Illuminate\Auth\Middleware\AuthenticateWithBasicAuth',
-		'guest' => 'App\Http\Middleware\RedirectIfAuthenticated',
+		'guest' => 'Howapped\Http\Middleware\RedirectIfAuthenticated',
 	];
 
 	/**
@@ -28,7 +28,7 @@ class RouteServiceProvider extends ServiceProvider {
 	 */
 	public function before(Router $router, UrlGenerator $url)
 	{
-		$url->setRootControllerNamespace('App\Http\Controllers');
+		$url->setRootControllerNamespace('Howapped\Http\Controllers');
 	}
 
 	/**
@@ -39,7 +39,7 @@ class RouteServiceProvider extends ServiceProvider {
 	 */
 	public function map(Router $router)
 	{
-		$router->group(['namespace' => 'App\Http\Controllers'], function($router)
+		$router->group(['namespace' => 'Howapped\Http\Controllers'], function($router)
 		{
 			require app_path('Http/routes.php');
 		});
