@@ -416,6 +416,10 @@ textarea {
         color: #ffffff;
         background-color: #2ecc71;
     }
+
+    .service {
+        height:280px
+    }
 }
 
 /* Page Title
@@ -1159,6 +1163,8 @@ section {
 
 /* Services
  * -------------------------- */
+
+
 .service {
     text-align: center;
     padding: 20px;

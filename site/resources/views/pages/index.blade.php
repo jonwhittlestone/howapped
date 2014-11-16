@@ -167,7 +167,7 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4 ">
+                        <div class="col-md-4 service-container">
                             <div class="service">
                                 <span class="service-icon">
                                 <i class="icon-ok"></i>
@@ -176,7 +176,7 @@
                                 <p>Agency or Entrepeneur, How Apped can help any business flourish with custom apps tailored to the projects' needs.</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 service-container">
                             <div class="service">
                                 <span class="service-icon">
                                 <i class="icon-code"></i>
@@ -185,7 +185,7 @@
                                 <p>Adding automated testing for greater confidence that quality is delivered, on-budget and on-schedule</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 service-container">
                             <div class="service">
                                 <span class="service-icon">
                                 <i class="icon-cog"></i>
