@@ -2,7 +2,7 @@
                     <div class="widget tagcloud">
                         <h5 class="subpage-title">Skillset</h5>
                         <ul class="tagcloud-list">
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Laravel 4</a>  </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Laravel 4/5</a>  </li>
                             <li><a href="http://www.linkedin.com/in/jonwhittlestone">Object Oriented PHP 5</a>  </li>
                             <li><a href="http://www.linkedin.com/in/jonwhittlestone">REST API Design and Development</a>  </li>
                             <li><a href="http://www.linkedin.com/in/jonwhittlestone">Ruby on Rails</a> </li>

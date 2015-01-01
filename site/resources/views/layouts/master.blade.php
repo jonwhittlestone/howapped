@@ -8,14 +8,13 @@
            @include('layouts.partials._header')
            @yield('content')
 
-
             <footer class="footer-1">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3">
                             <div class="widget about-us">
                                 <span class="footer-brand">How<span>Apped.</span></span>
-                                <p>Jon is a Web Developer based in London, UK. With over 8 years' experience with Front End and Back End development. Jon can help your Business flourish by delivering web projects, on budget and on schedule.</p>
+                                <p>Jon is a Web Developer based in Dorking, Surrey. With over 10 years' experience with Front End and Back End development. Jon can help your Business flourish by delivering web projects, on budget and on schedule. He works in and around South London, UK.</p>
                             </div>
                             <!-- /.about-us -->
                         </div>

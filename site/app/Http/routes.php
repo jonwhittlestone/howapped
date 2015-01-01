@@ -11,7 +11,14 @@
 |
 */
 
-$router->get('/', 'PagesController@index');
+$router->get('/', [
+    'as' => 'home',
+    'uses' => 'PagesController@index'
+]);
+$router->get('portfolio', [
+    'as' => 'portfolio',
+    'uses' => 'PagesController@portfolio'
+]);
 
 /*
 |--------------------------------------------------------------------------

@@ -13,8 +13,24 @@ class PagesController extends Controller {
 	 */
 	public function index()
 	{
-		return view('pages.index');
+		$routeName = app()->router->getCurrentRoute()->getName();
+		return view('pages.index',compact('routeName'));
 	}
+
+	/**
+	 * Display a listing of the resource.
+	 *
+	 * @Get("/porffolio")
+	 *
+	 * @return Response
+	 */
+	public function portfolio()
+	{
+		$routeName = app()->router->getCurrentRoute()->getName();
+		return view('pages.portfolio',compact('routeName'));
+	}
+
+	
 
 
 
