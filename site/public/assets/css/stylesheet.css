@@ -273,7 +273,24 @@ textarea {
   font-weight: 600;
 }
 
+header .navbar-header .slogan {
+    margin: 8px 0 0 1em;
+    padding: 12px 0 8px 1em;
+    border-left: 1px solid #e6e6e6;
+    float: left; 
+    margin-top:29px
+}
+
 @media (max-width: 767px) {
+    header .navbar-header .slogan {
+    border-left:0px;
+    padding:6px 0px;
+    margin:0px auto;
+    width:100%;
+    clear:both;
+    text-align: center;
+}
+
     .navbar-collapse {
         border-top: 0;
     }
