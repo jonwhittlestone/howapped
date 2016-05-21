@@ -3,7 +3,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<link rel="shortcut icon" href="/assets/ico/favicon.png">
-		<title>HowApped.com - Full-stack Web Development specialising in Laravel and Rails</title>
+		<title>HowApped.com - Full-stack Web Development specialising in Laravel and Django</title>
 		<!-- Bootstrap Core CSS -->
 		<link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
 		<!-- Plugins CSS -->

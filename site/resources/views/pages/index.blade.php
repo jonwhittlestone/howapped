@@ -26,7 +26,7 @@
                                 data-speed="600"
                                 data-start="2400"
                                 data-easing="easeOutExpo"  >
-                                Using Workflow tools such as JIRA or Pivotal tracker, the software <br>design and development process is managed to ensure we're all singing<br>from the same hymn sheet.
+                                Using Workflow tools such as JIRA or Pivotal tracker, the software <br>design and development process is managed to ensure your app is shipped to exact specification<br>and precise expectation.
                             </div>
                             <!-- <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
                                 data-x="145"
