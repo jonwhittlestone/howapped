@@ -196,7 +196,7 @@
                                 <i class="icon-cog"></i>
                                 </span>
                                 <h4>Productivity</h4>
-                                <p>Building and maintaining a happy and productive development environement and team  </p>
+                                <p>Building and maintaining a happy and productive development environment and team  </p>
                             </div>
                         </div>
                     </div>
@@ -215,7 +215,7 @@
                         <div class="col-md-3">
                             <div class="widget about-us">
                                 <span class="footer-brand">How<span>Apped.</span></span>
-                                <p>Jon is a Web Developer based in London, UK. With over 7 years' experience with Front End and Back End development. Jon can help your Business flourish by delivering web projects, on budget and on schedule.</p>
+                                <p>Jon is a Web Developer based in London, UK. With over 10 years' experience with Front End and Back End development. Jon can help your Business flourish by delivering web projects, on budget and on schedule.</p>
                             </div>
                             <!-- /.about-us -->
                         </div>

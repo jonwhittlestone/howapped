@@ -1,21 +1,14 @@
                 <div class="col-md-3">
                     <div class="widget tagcloud">
-                        <h5 class="subpage-title">Skillset</h5>
+                        <h5 class="subpage-title">Specialties</h5>
                         <ul class="tagcloud-list">
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Laravel 4/5</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Object Oriented PHP 5</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">REST API Design and Development</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Ruby on Rails</a> </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">CodeIgniter</a> </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Drupal</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Wordpress</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Facebook and Twitter API</a> </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">MySQL</a> </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">ajax</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">html5</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">css3</a> </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">JavaScript</a>  </li>
-                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Core jQuery</a>  </li>
+
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Django &amp; Flask</a> </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Laravel 7.x LTS</a>  </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">Python/PHP</a>  </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">REST/GraphQL</a>  </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">React/Vue</a> </li>
+                            <li><a href="http://www.linkedin.com/in/jonwhittlestone">PosgreSQL/MySql</a> </li>
                         </ul>
                     </div>
                     <!-- /.tagcloud -->

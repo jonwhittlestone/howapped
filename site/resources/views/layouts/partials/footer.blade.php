@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-6 footer-2-info-wrapper">
-                            <p>HowApped © <?php echo date("Y"); ?>. Full-stack Web development by <a href="http://www.jonwhittlestone.com">Jon Whittlestone</a></p>
+                            <p>HowApped © <?php echo date("Y"); ?>. End to End Web development by <a href="http://www.jonwhittlestone.howapped.com">Jon Whittlestone</a></p>
                         </div>
                         <!-- /.footer-2-info -->
                         <div class="col-xs-6 social-link-wrapper">

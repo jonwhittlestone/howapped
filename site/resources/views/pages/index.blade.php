@@ -5,7 +5,7 @@
                 <div class="fullwidthbanner">
                     <ul>
                         <!-- THE 1ST SLIDE -->
-                        <li data-transition="boxslide" data-slotamount="10" data-masterspeed="300">
+                        <li data-transition="Fade" data-slotamount="10" data-masterspeed="300">
                             <!-- <img src="assets/img/slides/slide (1).jpg" alt="Slide Image"> -->
                             <img src="/assets/img/slides/slide (3).jpg" alt="Slide Image">
                             <div class="tp-caption theme_caption4 sft stt"
@@ -13,20 +13,20 @@
                                 data-y="75"
                                 data-speed="300"
                                 data-start="2000"
-                                data-easing="easeOutExpo"  >Delivering custom web apps to help your business flourish</div>
+                                data-easing="easeOutExpo" style='font-size:larger'  >Delivering custom web apps to help your business flourish</div>
                             <div class="tp-caption theme_caption2 lft ltt"
                                 data-x="145"
-                                data-y="115"
+                                data-y="120"
                                 data-speed="300"
                                 data-start="2200"
-                                data-easing="easeOutExpo"  >An Agile Approach from Day One</div>
+                                data-easing="easeOutExpo"  >'I help SaaS companies retain larger,<br>more valuable subscribers'</div>
                             <div class="tp-caption theme_caption3 lfl ltl"
                                 data-x="145"
-                                data-y="170"
+                                data-y="220"
                                 data-speed="600"
                                 data-start="2400"
                                 data-easing="easeOutExpo"  >
-                                Using Workflow tools such as JIRA or Pivotal tracker, the software <br>design and development process is managed to ensure we're all singing<br>from the same hymn sheet.
+                                Managing the software development lifecycle<br>to ensure your cloud platform is shipping to exact specification<br>and precise expectation.
                             </div>
                             <!-- <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
                                 data-x="145"
@@ -48,16 +48,32 @@
                                 data-speed="300"
                                 data-start="3000"
                                 data-easing="easeOutExpo"  ><img src="/assets/img/slides/conductor.png" alt="Hymn Sheet"></div>
+
+
                             <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
                                 data-x="145"
-                                data-y="280"
+                                data-y="305"
                                 data-speed="300"
                                 data-start="2600"
-                                data-easing="easeOutExpo"><a href="http://www.jonwhittlestone.com" class="">Recent Work</a>
+                                data-easing="easeOutExpo"><a href="http://github.com/jonwhittlestone" class="">Code</a>
                             </div>
                             <div class="caption sfb stb btn btn-flat flat-primary"
-                                data-x="275"
-                                data-y="280"
+                                data-x="223"
+                                data-y="305"
+                                data-speed="300"
+                                data-start="2600"
+                                data-easing="easeOutExpo"><a href="http://words.howapped.com" class="">Blog</a>
+                            </div>
+                            <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
+                                data-x="300"
+                                data-y="305"
+                                data-speed="300"
+                                data-start="2600"
+                                data-easing="easeOutExpo"><a href="http://jonwhittlestone.howapped.com" class="">Recent Work</a>
+                            </div>
+                            <div class="caption sfb stb btn btn-flat flat-primary"
+                                data-x="432"
+                                data-y="305"
                                 data-speed="300"
                                 data-start="2800"
                                 data-easing="easeOutExpo">

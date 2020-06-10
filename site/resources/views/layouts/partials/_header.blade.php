@@ -10,9 +10,9 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="/">How<span>Apped.</span></a>
-                            <div class='slogan'>Full-stack Web Development in London, UK with Laravel and Rails</div>
+                            <div class='slogan'>End to End Web Development in London, UK with Django &amp; Laravel</div>
                         </div>
-                        {{-- @include('layouts.partials._nav') --}}
+                        @include('layouts.partials._nav')
                         <!-- /.navbar-collapse -->
                     </div>
                     <!-- /.container -->

@@ -4,7 +4,7 @@
         @include('layouts.partials._head')
     </head>
     <body>
-        <div class="wrap">
+        <div class="wrap" style="">
            @include('layouts.partials._header')
            @yield('content')
 
@@ -12,9 +12,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3">
-                            <div class="widget about-us">
+                            <div class="widget about-us" style="font-size:larger">
                                 <span class="footer-brand">How<span>Apped.</span></span>
-                                <p>Jon is a Web Developer based in Dorking, Surrey. With over 10 years' experience with Front End and Back End development. Jon can help your Business flourish by delivering web projects, on budget and on schedule. He works in and around South London, UK.</p>
+                                <p>Jon is a Software Developer based in Dorking, Surrey. With over 15 years' experience delivering Front End and Back End software.</p> <p>Jon can help your Business flourish by delivering software, on budget and on schedule.</p><P> He collaborates with clients remotely as well as in person around South London, UK.</p>
+
                             </div>
                             <!-- /.about-us -->
                         </div>
